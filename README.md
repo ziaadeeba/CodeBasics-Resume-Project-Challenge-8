@@ -19,3 +19,12 @@
 
 #### 5.Credit Card Feature Recommendations: Provide recommendations on what key features should be included in the credit card which will improve the likelihood of credit card usage. This should be backed by the insights from data provided and also some secondary research on the internet for this.
 
+
+
+
+
+
+
+I conducted a comprehensive customer demographic analysis using Power BI, presenting key insights through visually compelling reports. These findings highlight demographic trends and patterns, providing a clear and engaging understanding of customer behavior.
+
+![image](https://github.com/user-attachments/assets/5e199f84-81d0-469b-8789-2542836de8b2)
