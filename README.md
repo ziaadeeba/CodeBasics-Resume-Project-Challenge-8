@@ -24,7 +24,11 @@
 
 
 
-
+### Demographic classification
 I conducted a comprehensive customer demographic analysis using Power BI, presenting key insights through visually compelling reports. These findings highlight demographic trends and patterns, providing a clear and engaging understanding of customer behavior.
 
 ![image](https://github.com/user-attachments/assets/5e199f84-81d0-469b-8789-2542836de8b2)
+
+* The dataset encompasses a substantial pool of 4000 customers, forming the foundation of our analysis.
+* The majority of our customer base comprises males, accounting for 64.93%, indicating a slightly male-dominated demographic. However, the substantial presence of females (35.08%) highlights a diverse customer landscape.
+* The age group 25-35 emerges as the most significant segment, with 1498 customers. This group, especially males, exhibits a strong presence. Customers aged 35-45 also form a substantial portion (1273), demonstrating a balanced distribution between genders.The 45+ age group, while smaller, remains a noteworthy segment that shouldn't be overlooked.
