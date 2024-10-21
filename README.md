@@ -32,3 +32,7 @@ I conducted a comprehensive customer demographic analysis using Power BI, presen
 * The dataset encompasses a substantial pool of 4000 customers, forming the foundation of our analysis.
 * The majority of our customer base comprises males, accounting for 64.93%, indicating a slightly male-dominated demographic. However, the substantial presence of females (35.08%) highlights a diverse customer landscape.
 * The age group 25-35 emerges as the most significant segment, with 1498 customers. This group, especially males, exhibits a strong presence. Customers aged 35-45 also form a substantial portion (1273), demonstrating a balanced distribution between genders.The 45+ age group, while smaller, remains a noteworthy segment that shouldn't be overlooked.
+* Mumbai takes the lead in terms of customer concentration, with 1078 customers, predominantly males.
+* Other major cities like Chennai, Bangalore, and Delhi NCR also contribute significantly to our customer base.
+* Salaried IT Employees represent a large portion of our customers (1294), showcasing a tech-centric demographic.
+* The diversity in occupations, including freelancers and business owners, presents an opportunity to tailor services for varied professional needs.
